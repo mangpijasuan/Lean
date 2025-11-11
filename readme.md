@@ -11,6 +11,33 @@
 
 [Lean Home][1] | [Documentation][2] | [Download Zip][3] | [Docker Hub][8] | [Nuget][9]
 
+## 🚀 How to Run LEAN
+
+**New to LEAN?** Get started in minutes!
+
+- **Quick Start** (5 minutes): See [QUICKSTART.md](QUICKSTART.md) for the fastest way to run your first algorithm
+- **Complete Guide**: See [GETTING_STARTED.md](GETTING_STARTED.md) for detailed step-by-step instructions
+- **Troubleshooting**: Having issues? Check [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
+- **IDE Setup**: See [VS Code](.vscode/readme.md) or [Visual Studio](.vs/readme.md) for local development
+
+### Fastest Method: LEAN CLI
+
+```bash
+pip install lean
+lean project-create "MyFirstStrategy"
+lean backtest "MyFirstStrategy"
+```
+
+**Or run locally:**
+
+```bash
+git clone https://github.com/QuantConnect/Lean.git
+cd Lean
+dotnet build QuantConnect.Lean.sln
+cd Launcher/bin/Debug
+dotnet QuantConnect.Lean.Launcher.dll
+```
+
 #
 
 <picture >
