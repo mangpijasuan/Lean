@@ -233,6 +233,8 @@ LEAN comes with free sample data. For full market data:
 - Verify Python 3.11.11 is installed
 - Check the [Python setup guide](https://github.com/QuantConnect/Lean/tree/master/Algorithm.Python)
 
+📘 **For more issues and solutions, see [TROUBLESHOOTING.md](TROUBLESHOOTING.md)**
+
 ---
 
 ## Quick Reference

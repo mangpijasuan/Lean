@@ -17,6 +17,7 @@
 
 - **Quick Start** (5 minutes): See [QUICKSTART.md](QUICKSTART.md) for the fastest way to run your first algorithm
 - **Complete Guide**: See [GETTING_STARTED.md](GETTING_STARTED.md) for detailed step-by-step instructions
+- **Troubleshooting**: Having issues? Check [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
 - **IDE Setup**: See [VS Code](.vscode/readme.md) or [Visual Studio](.vs/readme.md) for local development
 
 ### Fastest Method: LEAN CLI

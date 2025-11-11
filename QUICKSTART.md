@@ -79,6 +79,7 @@ Edit `Launcher/config.json` to select which algorithm to run:
 - 📖 [Full Getting Started Guide](GETTING_STARTED.md)
 - 💡 [Writing Algorithms](https://www.lean.io/docs/v2/writing-algorithms)
 - 🎓 [Video Tutorials](https://www.youtube.com/quantconnect)
+- 🔧 [Troubleshooting Guide](TROUBLESHOOTING.md)
 
 ---
 
